@@ -1,6 +1,6 @@
 # OOpsAssignment-2
 
-## Aasif Ali
+### Submitted By: Aasif Ali
 
 Define a class named Person and mix it with Ordered Trait to do the comparison.
 First, check if the name parameter of both objects is equal. If yes, then do the comparison according to age.
